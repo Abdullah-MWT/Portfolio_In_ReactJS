@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.App{
+  height: 100%;
+
+ 
+}
+.App__main-page-content{
+  height:calc(100% - 80px);
 }
